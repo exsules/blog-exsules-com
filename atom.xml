@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Exsules]]></title>
+  <link href="http://blog.exsules.com/atom.xml" rel="self"/>
+  <link href="http://blog.exsules.com/"/>
+  <updated>2014-02-22T03:40:31+01:00</updated>
+  <id>http://blog.exsules.com/</id>
+  <author>
+    <name><![CDATA[Exsules]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Game Information]]></title>
+    <link href="http://blog.exsules.com/2014/02/22/game-information/"/>
+    <updated>2014-02-22T03:14:22+01:00</updated>
+    <id>http://blog.exsules.com/2014/02/22/game-information</id>
+    <content type="html"><![CDATA[<p>We’re going to create a MMORTS game that you play via your web browser. We are now going to explain the basic of the game setup, but have a little indulgence that things can be changed from time to time.
+The goal with the game is just to learn, learn and learn. The best way to learn something is to do it with fun and who doesn’t like games?</p>
+
+<p><strong>Information about the game and the game play</strong></p>
+
+<p>There is nothing special about it, you create an account, choose your race  and your planet will automatically be created with some basic features. Then you need to build different buildings to achieve your own goals which can be to eliminate your neighbor but more information about this in a later post.</p>
+
+<p>Some of the features the game will provide is that you can choose from 2-3 different races (not yet decided) there will also be a race that is not playable by people, the later race is controlled by the computer and it will work like a normal account, it will build things, train troops and attack normal players and expand with new plantes. It’s a very powerful race so it’s nothing you attack in the early stage of the game and neither will she, she actually has honor and a little sympathy.</p>
+]]></content>
+  </entry>
+  
+</feed>
