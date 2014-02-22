@@ -4,7 +4,7 @@
   <title><![CDATA[Exsules]]></title>
   <link href="http://blog.exsules.com//atom.xml" rel="self"/>
   <link href="http://blog.exsules.com//"/>
-  <updated>2014-02-22T05:11:58+01:00</updated>
+  <updated>2014-02-22T05:17:04+01:00</updated>
   <id>http://blog.exsules.com//</id>
   <author>
     <name><![CDATA[Exsules]]></name>
@@ -12,48 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[testaras]]></title>
-    <link href="http://blog.exsules.com//2014/02/22/testaras/"/>
-    <updated>2014-02-22T05:11:43+01:00</updated>
-    <id>http://blog.exsules.com//2014/02/22/testaras</id>
-    <content type="html"><![CDATA[<p>bka bkabka</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[testar]]></title>
-    <link href="http://blog.exsules.com//2014/02/22/testar/"/>
-    <updated>2014-02-22T05:07:36+01:00</updated>
-    <id>http://blog.exsules.com//2014/02/22/testar</id>
-    <content type="html"><![CDATA[<p>Vi testar igen</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[testish23]]></title>
-    <link href="http://blog.exsules.com//2014/02/22/testish23/"/>
-    <updated>2014-02-22T04:48:26+01:00</updated>
-    <id>http://blog.exsules.com//2014/02/22/testish23</id>
-    <content type="html"><![CDATA[<p>Kommer denna fungare med text, känns dumt om texten inte kommer med.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[testish]]></title>
-    <link href="http://blog.exsules.com//2014/02/22/testish/"/>
-    <updated>2014-02-22T04:43:43+01:00</updated>
-    <id>http://blog.exsules.com//2014/02/22/testish</id>
-    <content type="html"><![CDATA[<p>Vi testar om denna blir rätt</p>
-
-<p><strong>HEJ</strong></p>
-
-<p><em>hej</em></p>
-
-<p>Fuck yea, vi får hoppas.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Colonel System]]></title>
