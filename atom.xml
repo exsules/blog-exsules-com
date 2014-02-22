@@ -4,7 +4,7 @@
   <title><![CDATA[Exsules]]></title>
   <link href="http://blog.exsules.com//atom.xml" rel="self"/>
   <link href="http://blog.exsules.com//"/>
-  <updated>2014-02-22T05:08:20+01:00</updated>
+  <updated>2014-02-22T05:11:58+01:00</updated>
   <id>http://blog.exsules.com//</id>
   <author>
     <name><![CDATA[Exsules]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[testaras]]></title>
+    <link href="http://blog.exsules.com//2014/02/22/testaras/"/>
+    <updated>2014-02-22T05:11:43+01:00</updated>
+    <id>http://blog.exsules.com//2014/02/22/testaras</id>
+    <content type="html"><![CDATA[<p>bka bkabka</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[testar]]></title>
