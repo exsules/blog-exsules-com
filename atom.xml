@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Exsules]]></title>
-  <link href="http://blog.exsules.com//atom.xml" rel="self"/>
-  <link href="http://blog.exsules.com//"/>
-  <updated>2014-02-22T05:46:48+01:00</updated>
-  <id>http://blog.exsules.com//</id>
+  <link href="http://blog.exsules.com/atom.xml" rel="self"/>
+  <link href="http://blog.exsules.com/"/>
+  <updated>2014-02-22T05:50:55+01:00</updated>
+  <id>http://blog.exsules.com/</id>
   <author>
     <name><![CDATA[Exsules]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Colonel System]]></title>
-    <link href="http://blog.exsules.com//2014/02/22/colonel-system/"/>
+    <link href="http://blog.exsules.com/2014/02/22/colonel-system/"/>
     <updated>2014-02-22T04:05:51+01:00</updated>
-    <id>http://blog.exsules.com//2014/02/22/colonel-system</id>
+    <id>http://blog.exsules.com/2014/02/22/colonel-system</id>
     <content type="html"><![CDATA[<p>We haven’t decided yet if the players will start with an Colonel or if they have to train him from another unit. The plus side if the player will start with him, all the Colonels will have the same skills at level zero.</p>
 
 <p><strong>Colonel Skills</strong></p>
@@ -53,9 +53,9 @@
   
   <entry>
     <title type="html"><![CDATA[Game Information]]></title>
-    <link href="http://blog.exsules.com//2014/02/22/game-information/"/>
+    <link href="http://blog.exsules.com/2014/02/22/game-information/"/>
     <updated>2014-02-22T03:14:22+01:00</updated>
-    <id>http://blog.exsules.com//2014/02/22/game-information</id>
+    <id>http://blog.exsules.com/2014/02/22/game-information</id>
     <content type="html"><![CDATA[<p>We’re going to create a MMORTS game that you play via your web browser. We are now going to explain the basic of the game setup, but have a little indulgence that things can be changed from time to time.
 The goal with the game is just to learn, learn and learn. The best way to learn something is to do it with fun and who doesn’t like games?</p>
 
