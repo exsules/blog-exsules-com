@@ -4,7 +4,7 @@
   <title><![CDATA[Exsules]]></title>
   <link href="http://blog.exsules.com/atom.xml" rel="self"/>
   <link href="http://blog.exsules.com/"/>
-  <updated>2014-02-22T05:50:55+01:00</updated>
+  <updated>2014-03-02T02:36:45+01:00</updated>
   <id>http://blog.exsules.com/</id>
   <author>
     <name><![CDATA[Exsules]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Information and some data]]></title>
+    <link href="http://blog.exsules.com/2014/03/02/information-and-some-data/"/>
+    <updated>2014-03-02T02:24:47+01:00</updated>
+    <id>http://blog.exsules.com/2014/03/02/information-and-some-data</id>
+    <content type="html"><![CDATA[<p>The progress of the game is going forward, at the moment all the algorithms for the resource fields are done, that includes prices for every level, workers your planet gain per level and of course the construction time. <em>The formulas may be changed.</em></p>
+
+<p><em>We will update with tables of the first 10 levels</em></p>
+
+<h3>The things that are working in the game</h3>
+
+<ul>
+<li>Building</li>
+<li>Get resources per hour</li>
+<li>Queue up for more buildings</li>
+<li>Statistics, including Players, Planets, Colonels and General</li>
+<li>Registration</li>
+<li>Profile</li>
+</ul>
+
+
+<p>We are also considering to add achievements in to the game, how they will work and everything else will be posted later. We also need to figure out how the galaxy aka the map will look like. In the next post we will have our message system working, some more buildings like a place there the player can train troops and hopefully the Colonel system will be working, not 100% but still.</p>
+
+<p>Something we want to add to the Colonel is gear and quests.
+Example the Colonel goes out on a quest and finds something nice, like a new gun. Then after sometime has passed in the game we will release the option to upgrade this gun to tier 2, with the help of some kind of crystal. The only way the acquire this crystal will be via quest where you have to attack a special planet that belongs to the NPC player, we’re not sure yet how big of army you need but be prepared, it wont be easy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Colonel System]]></title>
